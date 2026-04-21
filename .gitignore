@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+.DS_Store
+game_project_summary.md
+docs/
+_Run_Game.bat
+wavedash.toml
